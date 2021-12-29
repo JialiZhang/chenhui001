@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "earningsData": [
+      {
+        "name": "成交均价",
+        "value": "200$"
+      },
+      {
+        "name": "收益",
+        "value": "20000000$"
+      }
+    ],
+    "forSaleList": [
+      {
+        "id": "1"
+      },
+      {
+        "id": "2"
+      },
+      {
+        "id": "3"
+      },
+      {
+        "id": "4"
+      },
+      {
+        "id": "5"
+      }
+    ],
+    "onSaleList": [
+      {
+        "id": "6",
+        "sellingPrice": "200$",
+        "endTime": "2022-01-31 12:00:00"
+      },
+      {
+        "id": "7",
+        "sellingPrice": "200$",
+        "endTime": "2022-01-31 12:00:00"
+      }
+    ],
+    "beSoldList": [
+      {
+        "id": "8",
+        "transactionPrice": "200$",
+        "transactionTime": "2021-12-28 12:00:00"
+      },
+      {
+        "id": "9",
+        "transactionPrice": "200$",
+        "transactionTime": "2021-12-28 12:00:00"
+      },
+      {
+        "id": "10",
+        "transactionPrice": "200$",
+        "transactionTime": "2021-12-28 12:00:00"
+      },
+      {
+        "id": "11",
+        "transactionPrice": "200$",
+        "transactionTime": "2021-12-28 12:00:00"
+      }
+    ]
+  }
+}
